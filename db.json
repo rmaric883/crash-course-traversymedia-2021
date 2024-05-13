@@ -28,6 +28,29 @@
       "id": "5",
       "text": "Food Shopping",
       "day": "May 7th at 12:30pm",
+      "reminder": false
+    },
+    {
+      "id": "2de7",
+      "text": "Robi",
+      "day": "Saturday Eveniing",
+      "reminder": true
+    },
+    {
+      "id": "60c6",
+      "text": "Marina",
+      "day": "Sanday",
+      "reminder": true
+    },
+    {
+      "id": "535f",
+      "text": "Roberto",
+      "day": "Sunday",
+      "reminder": false
+    },
+    {
+      "id": "294f",
+      "text": "Marina",
       "reminder": true
     }
   ]
